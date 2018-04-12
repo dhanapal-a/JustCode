@@ -13,5 +13,6 @@ public class JustARestApplication extends SpringBootServletInitializer {
 		.run(args);
 	}
 	
+	
 
 }
